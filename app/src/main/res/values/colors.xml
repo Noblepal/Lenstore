@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#050842</color>
+    <color name="colorPrimaryDark">#030529</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!--Color for selected nav-bar item-->
+    <color name="colorSelectedItem">#BBBBBB</color>
+</resources>
